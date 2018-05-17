@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1526515671 source:c:\users\sigurðurorri\documents\reiknirit\gagnaskipan\hangman\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+
